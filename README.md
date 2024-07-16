@@ -1,9 +1,12 @@
 ## Howdy there 🤠
 Hello, I'm Aj! I'm a backend developer passionate about learning and creating new things to help others.
-I am finishing a program to hone my skills and improve my coding knowledge. I am currently learning Java code and improving my understanding of it!
+I am finishing a program to hone my skills and improve my coding knowledge. I am currently learning Java code and enhancing my understanding of it!
 
 A fun fact about me is I do creative writing on the side and always love to learn new skills!
 
+- 📫 How to reach me: aurora.j.barnes@gmail.com
+
+  I hope we can get in touch!
 -Aj
 <!--
 **AjBarnes-sketch/AjBarnes-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
