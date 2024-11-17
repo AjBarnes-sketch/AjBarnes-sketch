@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajbarnes-sketch" alt="ajbarnes-sketch" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development at Bloomtech**
+- 🌱 I’m currently learning **HTML for front end**
 
 - 📫 How to reach me **aurora.j.barnes@gmail.com**
 
 - ⚡ Fun fact **A fun fact about me is I do creative writing on the side and always love to learn new skills!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/aurora-barnes-b3989b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aurora-barnes-b3989b213" height="30" width="40" /></a>
 </p>
