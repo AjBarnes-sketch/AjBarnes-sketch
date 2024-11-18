@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aurora.j.barnes@gmail.com**
 
-- ⚡ Fun fact **A fun fact about me is I enjoy doing creative writing in my free-time, and I'm always looking to learn new skills!**
+- ⚡ Fun fact **A fun fact about me: I enjoy doing creative writing in my free-time, and I'm always looking to learn new skills!**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
