@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aj Barnes</h1>
+<h1 align="center">Howdy 👋, I'm Aj Barnes nice to meet you!</h1>
 <h3 align="center">I'm a coder passionate about learning and creating new things to help others. I just finished a program to hone my skills and improve my coding knowledge. I am currently learning HTML code and enhancing my understanding of it!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajbarnes-sketch" alt="ajbarnes-sketch" /></a> </p>
